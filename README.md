@@ -2,9 +2,15 @@
 
 ### CSE Graduate | Python Full Stack Developer | Django | MySQL
 
-I'm a Computer Science and Engineering graduate interested in Software Development and Python Full Stack Development.
+# Hi 👋, I'm Harikrishna Poojari
 
-I enjoy building practical applications, solving programming problems, and continuously improving my development skills.
+### CSE Graduate | Python Full Stack Developer | Django | MySQL
+
+I am a Computer Science and Engineering graduate passionate about software development and building practical web applications.
+
+I have hands-on experience with Python, Django, SQL, MySQL, HTML, CSS, and JavaScript. I enjoy solving programming problems, developing projects, and continuously improving my technical skills.
+
+I am currently focused on strengthening my Python, Django, JavaScript, Data Structures, and problem-solving skills while preparing for software development opportunities.
 
 ---
 
