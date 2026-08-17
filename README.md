@@ -1,6 +1,3 @@
-# Hi 👋, I'm Harikrishna Poojari
-
-### CSE Graduate | Python Full Stack Developer | Django | MySQL
 
 I am a Computer Science and Engineering graduate passionate about software development and building practical web applications.
 
